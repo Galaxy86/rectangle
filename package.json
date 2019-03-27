@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Galaxy86/rectangle/issues"
   },
-  "homepage": "https://github.com/Galaxy86/rectangle#readme"
+  "homepage": "https://github.com/Galaxy86/rectangle#readme",
+  "dependencies": {
+    "grunt-contrib-csslint": "^2.0.0",
+    "grunt-contrib-less": "^2.0.0",
+    "grunt-eslint": "^21.0.0",
+    "grunt-htmlhint": "^0.9.13"
+  }
 }
